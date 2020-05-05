@@ -1,0 +1,987 @@
+{
+  "name": "My Awesome Tutorial",
+  "id": "19407a470ef87",
+  "created": "2020-05-05T08:05:32.904Z",
+  "articles": [
+    {
+      "id": "00aaf2f4",
+      "name": "My Awesome Tutorial",
+      "description": "",
+      "topics": [],
+      "categories": [],
+      "created": "2020-05-05T08:05:32.904Z",
+      "cover": ""
+    }
+  ],
+  "steps": [
+    {
+      "commit": "2ebf9ffb66cd968b62f0008846cc0abef37b5f92",
+      "id": "12e338ff",
+      "articleId": "00aaf2f4",
+      "type": "step",
+      "children": [
+        {
+          "type": "heading-two",
+          "commit": "2ebf9ffb66cd968b62f0008846cc0abef37b5f92",
+          "id": "81b424c6",
+          "fixed": true,
+          "children": [
+            {
+              "text": "第一次学习"
+            }
+          ]
+        },
+        {
+          "type": "explain",
+          "fixed": true,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "file": "index.js",
+          "display": true,
+          "commit": "2ebf9ffb66cd968b62f0008846cc0abef37b5f92",
+          "type": "file",
+          "children": [
+            {
+              "type": "explain",
+              "fixed": true,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "sssss"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "diff-block",
+              "file": "index.js",
+              "commit": "2ebf9ffb66cd968b62f0008846cc0abef37b5f92",
+              "hiddenLines": [],
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "explain",
+              "fixed": true,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "explain",
+          "fixed": true,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "commit": "1678f9bffd0ca2382d208b844216a861de9f5fa7",
+      "id": "75f10fcd",
+      "articleId": "00aaf2f4",
+      "type": "step",
+      "children": [
+        {
+          "type": "heading-two",
+          "commit": "1678f9bffd0ca2382d208b844216a861de9f5fa7",
+          "id": "683d2138",
+          "fixed": true,
+          "children": [
+            {
+              "text": "第二次学习"
+            }
+          ]
+        },
+        {
+          "type": "explain",
+          "fixed": true,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "file",
+          "file": ".gitignore",
+          "display": false,
+          "children": [
+            {
+              "type": "explain",
+              "fixed": true,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "diff-block",
+              "file": ".gitignore",
+              "commit": "1678f9bffd0ca2382d208b844216a861de9f5fa7",
+              "hiddenLines": [],
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "explain",
+              "fixed": true,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "file": "index.js",
+          "display": true,
+          "commit": "1678f9bffd0ca2382d208b844216a861de9f5fa7",
+          "type": "file",
+          "children": [
+            {
+              "type": "explain",
+              "fixed": true,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "diff-block",
+              "file": "index.js",
+              "commit": "1678f9bffd0ca2382d208b844216a861de9f5fa7",
+              "hiddenLines": [],
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "explain",
+              "fixed": true,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "explain",
+          "fixed": true,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "commit": "174266910aa314556a672f190c033fcd271d70b6",
+      "id": "0728ec35",
+      "articleId": "00aaf2f4",
+      "type": "step",
+      "children": [
+        {
+          "type": "heading-two",
+          "commit": "174266910aa314556a672f190c033fcd271d70b6",
+          "id": "36ecbab3",
+          "fixed": true,
+          "children": [
+            {
+              "text": "第三次学习"
+            }
+          ]
+        },
+        {
+          "type": "explain",
+          "fixed": true,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "file": "app.js",
+          "display": true,
+          "commit": "174266910aa314556a672f190c033fcd271d70b6",
+          "type": "file",
+          "children": [
+            {
+              "type": "explain",
+              "fixed": true,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "diff-block",
+              "file": "app.js",
+              "commit": "174266910aa314556a672f190c033fcd271d70b6",
+              "hiddenLines": [],
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "explain",
+              "fixed": true,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "explain",
+          "fixed": true,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "commit": "fb34dd68e050db8c1585111d692d1836834b7955",
+      "id": "9e038f5f",
+      "articleId": "00aaf2f4",
+      "type": "step",
+      "children": [
+        {
+          "type": "heading-two",
+          "commit": "fb34dd68e050db8c1585111d692d1836834b7955",
+          "id": "8b7cfe47",
+          "fixed": true,
+          "children": [
+            {
+              "text": "第si次学习"
+            }
+          ]
+        },
+        {
+          "type": "explain",
+          "fixed": true,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "file": "app.js",
+          "display": true,
+          "commit": "fb34dd68e050db8c1585111d692d1836834b7955",
+          "type": "file",
+          "children": [
+            {
+              "type": "explain",
+              "fixed": true,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "diff-block",
+              "file": "app.js",
+              "commit": "fb34dd68e050db8c1585111d692d1836834b7955",
+              "hiddenLines": [],
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "explain",
+              "fixed": true,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "file": "watcher.js",
+          "display": true,
+          "commit": "fb34dd68e050db8c1585111d692d1836834b7955",
+          "type": "file",
+          "children": [
+            {
+              "type": "explain",
+              "fixed": true,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "diff-block",
+              "file": "watcher.js",
+              "commit": "fb34dd68e050db8c1585111d692d1836834b7955",
+              "hiddenLines": [],
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "explain",
+              "fixed": true,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "explain",
+          "fixed": true,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "commit": "061e74cac9b34d0e035dc46177e7f617471f31a5",
+      "id": "ec015bf2",
+      "articleId": "00aaf2f4",
+      "type": "step",
+      "children": [
+        {
+          "type": "heading-two",
+          "commit": "061e74cac9b34d0e035dc46177e7f617471f31a5",
+          "id": "04724ec6",
+          "fixed": true,
+          "children": [
+            {
+              "text": "第si次学习"
+            }
+          ]
+        },
+        {
+          "type": "explain",
+          "fixed": true,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "file": "app.js",
+          "display": true,
+          "commit": "061e74cac9b34d0e035dc46177e7f617471f31a5",
+          "type": "file",
+          "children": [
+            {
+              "type": "explain",
+              "fixed": true,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "diff-block",
+              "file": "app.js",
+              "commit": "061e74cac9b34d0e035dc46177e7f617471f31a5",
+              "hiddenLines": [],
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "explain",
+              "fixed": true,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "explain",
+          "fixed": true,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "commit": "d68c6bd071e15c99747e63d448c5261fe8396949",
+      "id": "4b551346",
+      "articleId": "00aaf2f4",
+      "type": "step",
+      "children": [
+        {
+          "type": "heading-two",
+          "commit": "d68c6bd071e15c99747e63d448c5261fe8396949",
+          "id": "02ba729b",
+          "fixed": true,
+          "children": [
+            {
+              "text": "第six次学习"
+            }
+          ]
+        },
+        {
+          "type": "explain",
+          "fixed": true,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "file": "index.js",
+          "display": true,
+          "commit": "d68c6bd071e15c99747e63d448c5261fe8396949",
+          "type": "file",
+          "children": [
+            {
+              "type": "explain",
+              "fixed": true,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "diff-block",
+              "file": "index.js",
+              "commit": "d68c6bd071e15c99747e63d448c5261fe8396949",
+              "hiddenLines": [
+                [
+                  0,
+                  0
+                ]
+              ],
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "explain",
+              "fixed": true,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "explain",
+          "fixed": true,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "commit": "aa5f3fe644166825eb7ecaa94109af99c85b1d92",
+      "id": "d23f3b37",
+      "articleId": "00aaf2f4",
+      "type": "step",
+      "children": [
+        {
+          "type": "heading-two",
+          "commit": "aa5f3fe644166825eb7ecaa94109af99c85b1d92",
+          "id": "9de9869a",
+          "fixed": true,
+          "children": [
+            {
+              "text": "测试"
+            }
+          ]
+        },
+        {
+          "type": "explain",
+          "fixed": true,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "file": "index.js",
+          "display": true,
+          "commit": "aa5f3fe644166825eb7ecaa94109af99c85b1d92",
+          "type": "file",
+          "children": [
+            {
+              "type": "explain",
+              "fixed": true,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "diff-block",
+              "file": "index.js",
+              "commit": "aa5f3fe644166825eb7ecaa94109af99c85b1d92",
+              "hiddenLines": [
+                [
+                  0,
+                  0
+                ]
+              ],
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "explain",
+              "fixed": true,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "explain",
+          "fixed": true,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "commit": "a58fd19e2cd5fff5882e5bdc836967e96edffa93",
+      "id": "91c36bbc",
+      "articleId": "00aaf2f4",
+      "type": "step",
+      "children": [
+        {
+          "type": "heading-two",
+          "commit": "a58fd19e2cd5fff5882e5bdc836967e96edffa93",
+          "id": "8c70d500",
+          "fixed": true,
+          "children": [
+            {
+              "text": "第six次学习"
+            }
+          ]
+        },
+        {
+          "type": "explain",
+          "fixed": true,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "file": "index.js",
+          "display": true,
+          "commit": "a58fd19e2cd5fff5882e5bdc836967e96edffa93",
+          "type": "file",
+          "children": [
+            {
+              "type": "explain",
+              "fixed": true,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "diff-block",
+              "file": "index.js",
+              "commit": "a58fd19e2cd5fff5882e5bdc836967e96edffa93",
+              "hiddenLines": [
+                [
+                  0,
+                  0
+                ]
+              ],
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "explain",
+              "fixed": true,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "explain",
+          "fixed": true,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "commit": "d1294898a9246f49bb13def64a2e96714dded081",
+      "id": "40f774ba",
+      "articleId": "00aaf2f4",
+      "type": "step",
+      "children": [
+        {
+          "type": "heading-two",
+          "commit": "d1294898a9246f49bb13def64a2e96714dded081",
+          "id": "3a6de9ed",
+          "fixed": true,
+          "children": [
+            {
+              "text": "hello"
+            }
+          ]
+        },
+        {
+          "type": "explain",
+          "fixed": true,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "file": "index.js",
+          "display": true,
+          "commit": "d1294898a9246f49bb13def64a2e96714dded081",
+          "type": "file",
+          "children": [
+            {
+              "type": "explain",
+              "fixed": true,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "diff-block",
+              "file": "index.js",
+              "commit": "d1294898a9246f49bb13def64a2e96714dded081",
+              "hiddenLines": [
+                [
+                  0,
+                  0
+                ]
+              ],
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "explain",
+              "fixed": true,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "explain",
+          "fixed": true,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "version": "v1",
+  "remotes": [
+    {
+      "name": "origin",
+      "refs": {
+        "fetch": "https://github.com/pftom/w3ctech.git",
+        "push": "https://github.com/pftom/w3ctech.git"
+      }
+    }
+  ]
+}
